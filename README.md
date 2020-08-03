@@ -2,4 +2,4 @@
 
 # Practice Run
 
-# Still making thinga up for the sake of learning this
+# Still making things up for the sake of learning this
